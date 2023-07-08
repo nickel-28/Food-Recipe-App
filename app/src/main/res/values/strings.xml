@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">iRecipe</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="search_message">Enter search key here</string>
+    <string name="welcome">Welcome to your favourite recipe book!</string>
+    <string name="all_recipes">All Recipes</string>
+    <string name="recipe_name">Chicken Fried Rice</string>
+    <string name="serving">Serving data</string>
+    <string name="category">Main Dish</string>
+    <string name="all_main_dish">All Main Dishes</string>
+    <string name="all_soup">All Soups</string>
+    <string name="all_drink">All Drinks</string>
+    <string name="all_dessert">All Desserts</string>
+    <string name="search_by">Search By</string>
+    <string name="cook_level">cook_level</string>
+    <string name="prep_time">prep_time</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="directions">Directions</string>
+    <string name="actual_description">actual_description</string>
+    <string name="cook_time">cook_time</string>
+    <string name="recipe_image">recipe_image</string>
+    <string name="add_recipe">Add your own recipe here!</string>
+    <string name="add_recipe_name">Enter recipe name</string>
+    <string name="add_category">Select category. Default category is Main Dishes.</string>
+    <string name="add_level">Select level. Default level is Easy.</string>
+    <string name="add_prepT">Enter prep time in minutes</string>
+    <string name="add_cookingT">Enter cooking time in minutes</string>
+    <string name="add_servings">Enter number of servings</string>
+    <string name="add_ingredients">Enter ingredients of the recipe separated by commas</string>
+    <string name="add_keyIng">Enter the key ingredients of this recipe separated by commas</string>
+    <string name="add_instructions">Enter the instructions</string>
+    <string name="submit">Add my recipe!</string>
+    <string name="drop_down_hint">Select options</string>
+    <string-array name="categories">
+        <item>Main Dishes</item>
+        <item>Soup</item>
+        <item>Dessert</item>
+        <item>Drink</item>
+    </string-array>
+    <string-array name="levels">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    <string name="title_activity_recipe_comment">RecipeCommentActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
